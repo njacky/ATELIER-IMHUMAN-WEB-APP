@@ -1,0 +1,6 @@
+{
+  "name": "atelier inhuman - Project File Manager",
+  "description": "Discord-styled, Notion-clean project file manager and weekly deadline tracker with cross-device Google account real-time synchronization, Excel spreadsheet support, and design narrative milestones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
